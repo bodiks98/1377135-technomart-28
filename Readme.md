@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Bohdan Stelmakh](https://up.htmlacademy.ru/htmlcss/28/user/1377135).
-* Наставник: `Неизвестно`.
+* Наставник: [Елизавета Цыгвинцева](https://htmlacademy.ru/profile/ijwby).
 
 ---
 
